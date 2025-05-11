@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Jesron and I'm a MERN Stack DEVeloper from IND</h2>
 
 ###
 
